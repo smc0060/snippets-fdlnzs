@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smc0060.github.io/snippets-fdlnzs/sitemap.xml
